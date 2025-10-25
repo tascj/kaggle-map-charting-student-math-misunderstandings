@@ -1,6 +1,7 @@
 # MAP - Charting Student Math Misunderstandings
 
 [Competition](https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings)
+
 [Solution Writeup](https://www.kaggle.com/competitions/map-charting-student-math-misunderstandings/writeups/1st-place-solution)
 
 ## Requirements
@@ -8,7 +9,9 @@
 ### Hardware
 
 Memory: 144GB or more
+
 GPU: 96GB or more
+
 NVIDIA RTX PRO 6000 Blackwell Workstation Edition was used.
 
 ### Software
